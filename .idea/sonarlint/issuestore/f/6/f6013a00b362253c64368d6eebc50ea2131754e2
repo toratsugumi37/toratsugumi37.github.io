@@ -1,12 +1,53 @@
 
-WWeb:LinkToImageCheckĞ"1Change this link to not directly target an image.(®©¾¨ıÿÿÿÿ
-WWeb:LinkToImageCheckÚ"1Change this link to not directly target an image.(óŞŞÚøÿÿÿÿ
-RWeb:LinkToImageCheckä"1Change this link to not directly target an image.(ı‹ÕÈ
-WWeb:LinkToImageCheckî"1Change this link to not directly target an image.(ÅŞ˜öşÿÿÿÿ
-WWeb:LinkToImageCheckø"1Change this link to not directly target an image.(Ä¹ä¼úÿÿÿÿ
-WWeb:LinkToImageCheck‚"1Change this link to not directly target an image.(×†Ëùÿÿÿÿ
-RWeb:LinkToImageCheckŒ"1Change this link to not directly target an image.(ˆÀş
-RWeb:LinkToImageCheck–"1Change this link to not directly target an image.(¸ãø¡
-RWeb:LinkToImageCheck "1Change this link to not directly target an image.(î¹™
-J	Web:S1827Ë"/Remove this deprecated "frameborder" attribute.(€¢Õšúÿÿÿÿ
-YWeb:FrameWithoutTitleCheckË"-Add a "title" attribute to this <iframe> tag.(€¢Õšúÿÿÿÿ
+UWeb:AvoidCommentedOutCodeCheckY"Remove this commented out code.(¼²üîùÿÿÿÿ8È…™ŞÅ1
+PWeb:AvoidCommentedOutCodeChecki"Remove this commented out code.(ƒœ8íé ŞÅ1
+OWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(§ÌÚ&8¨«¹ŞÅ1
+QWeb:AvoidCommentedOutCodeCheck‚"Remove this commented out code.(ÇÑ¾÷8¨«¹ŞÅ1
+VWeb:AvoidCommentedOutCodeCheckƒ"Remove this commented out code.(íª²–ıÿÿÿÿ8¨«¹ŞÅ1
+QWeb:AvoidCommentedOutCodeCheck…"Remove this commented out code.(€Àëõ8¨«¹ŞÅ1
+QWeb:AvoidCommentedOutCodeCheck†"Remove this commented out code.(¯•È“8©«¹ŞÅ1
+VWeb:AvoidCommentedOutCodeCheck‡"Remove this commented out code.(¸¥üÍüÿÿÿÿ8©«¹ŞÅ1
+QWeb:AvoidCommentedOutCodeCheckˆ"Remove this commented out code.(‹ü­½8©«¹ŞÅ1
+VWeb:AvoidCommentedOutCodeCheckŠ"Remove this commented out code.(–à•åşÿÿÿÿ8©«¹ŞÅ1
+VWeb:AvoidCommentedOutCodeCheckŒ"Remove this commented out code.(Ù×¤áúÿÿÿÿ8©«¹ŞÅ1
+QWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(¨ê‚Æ8©«¹ŞÅ1
+QWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(¤³¼º8©«¹ŞÅ1
+QWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(çˆ‰â8ª«¹ŞÅ1
+QWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(„‚â¢8ª«¹ŞÅ1
+QWeb:AvoidCommentedOutCodeCheck‘"Remove this commented out code.(‹ü­½8ª«¹ŞÅ1
+QWeb:AvoidCommentedOutCodeCheck’"Remove this commented out code.(‹ü­½8ª«¹ŞÅ1
+VWeb:AvoidCommentedOutCodeCheck”"Remove this commented out code.(£Úæêûÿÿÿÿ8ª«¹ŞÅ1
+QWeb:AvoidCommentedOutCodeCheck•"Remove this commented out code.(¨ê‚Æ8ª«¹ŞÅ1
+VWeb:AvoidCommentedOutCodeCheck–"Remove this commented out code.(î¥ê”úÿÿÿÿ8ª«¹ŞÅ1
+VWeb:AvoidCommentedOutCodeCheck—"Remove this commented out code.(»ã‚úÿÿÿÿ8ª«¹ŞÅ1
+VWeb:AvoidCommentedOutCodeCheck˜"Remove this commented out code.(·ÂºÃøÿÿÿÿ8««¹ŞÅ1
+QWeb:AvoidCommentedOutCodeCheck™"Remove this commented out code.(‹ü­½8««¹ŞÅ1
+QWeb:AvoidCommentedOutCodeCheckš"Remove this commented out code.(‹ü­½8««¹ŞÅ1
+VWeb:AvoidCommentedOutCodeCheckœ"Remove this commented out code.(Õ¤Æäıÿÿÿÿ8««¹ŞÅ1
+QWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(¨ê‚Æ8««¹ŞÅ1
+VWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(ş†‘Öùÿÿÿÿ8««¹ŞÅ1
+VWeb:AvoidCommentedOutCodeCheckŸ"Remove this commented out code.(†Á†üÿÿÿÿ8««¹ŞÅ1
+QWeb:AvoidCommentedOutCodeCheck "Remove this commented out code.(ÌÏè×8¬«¹ŞÅ1
+QWeb:AvoidCommentedOutCodeCheck¡"Remove this commented out code.(‹ü­½8¬«¹ŞÅ1
+QWeb:AvoidCommentedOutCodeCheck¢"Remove this commented out code.(‹ü­½8¬«¹ŞÅ1
+QWeb:AvoidCommentedOutCodeCheck¤"Remove this commented out code.(ÿ©“Á8¬«¹ŞÅ1
+QWeb:AvoidCommentedOutCodeCheck¥"Remove this commented out code.(¨ê‚Æ8¬«¹ŞÅ1
+QWeb:AvoidCommentedOutCodeCheck¦"Remove this commented out code.(®±ªó8¬«¹ŞÅ1
+QWeb:AvoidCommentedOutCodeCheck§"Remove this commented out code.(¢¼©ÿ8¬«¹ŞÅ1
+QWeb:AvoidCommentedOutCodeCheck¨"Remove this commented out code.(ƒò™¢8¬«¹ŞÅ1
+QWeb:AvoidCommentedOutCodeCheck©"Remove this commented out code.(‹ü­½8­«¹ŞÅ1
+QWeb:AvoidCommentedOutCodeCheckª"Remove this commented out code.(‹ü­½8­«¹ŞÅ1
+QWeb:AvoidCommentedOutCodeCheck¬"Remove this commented out code.(‹ü­½8­«¹ŞÅ1
+QWeb:AvoidCommentedOutCodeCheck®"Remove this commented out code.(‹ü­½8­«¹ŞÅ1
+VWeb:AvoidCommentedOutCodeCheck¯"Remove this commented out code.( ëË·ıÿÿÿÿ8­«¹ŞÅ1
+WWeb:LinkToImageCheckå"1Change this link to not directly target an image.(®©¾¨ıÿÿÿÿ
+WWeb:LinkToImageCheckï"1Change this link to not directly target an image.(óŞŞÚøÿÿÿÿ
+RWeb:LinkToImageCheckù"1Change this link to not directly target an image.(ı‹ÕÈ
+WWeb:LinkToImageCheckƒ"1Change this link to not directly target an image.(ÅŞ˜öşÿÿÿÿ
+WWeb:LinkToImageCheck"1Change this link to not directly target an image.(Ä¹ä¼úÿÿÿÿ
+WWeb:LinkToImageCheck—"1Change this link to not directly target an image.(×†Ëùÿÿÿÿ
+RWeb:LinkToImageCheck¡"1Change this link to not directly target an image.(ˆÀş
+RWeb:LinkToImageCheck«"1Change this link to not directly target an image.(¸ãø¡
+RWeb:LinkToImageCheckµ"1Change this link to not directly target an image.(î¹™
+J	Web:S1827à"/Remove this deprecated "frameborder" attribute.(€¢Õšúÿÿÿÿ
+YWeb:FrameWithoutTitleCheckà"-Add a "title" attribute to this <iframe> tag.(€¢Õšúÿÿÿÿ
