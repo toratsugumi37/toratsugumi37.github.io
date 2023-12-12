@@ -40,14 +40,14 @@ QWeb:AvoidCommentedOutCodeCheckª"Remove this commented out code.(‹ü­½8­«¹Ş
 QWeb:AvoidCommentedOutCodeCheck¬"Remove this commented out code.(‹ü­½8­«¹ŞÅ1
 QWeb:AvoidCommentedOutCodeCheck®"Remove this commented out code.(‹ü­½8­«¹ŞÅ1
 VWeb:AvoidCommentedOutCodeCheck¯"Remove this commented out code.( ëË·ıÿÿÿÿ8­«¹ŞÅ1
-WWeb:LinkToImageCheckå"1Change this link to not directly target an image.(®©¾¨ıÿÿÿÿ
-WWeb:LinkToImageCheckï"1Change this link to not directly target an image.(óŞŞÚøÿÿÿÿ
-RWeb:LinkToImageCheckù"1Change this link to not directly target an image.(ı‹ÕÈ
-WWeb:LinkToImageCheckƒ"1Change this link to not directly target an image.(ÅŞ˜öşÿÿÿÿ
-WWeb:LinkToImageCheck"1Change this link to not directly target an image.(Ä¹ä¼úÿÿÿÿ
-WWeb:LinkToImageCheck—"1Change this link to not directly target an image.(×†Ëùÿÿÿÿ
-RWeb:LinkToImageCheck¡"1Change this link to not directly target an image.(ˆÀş
-RWeb:LinkToImageCheck«"1Change this link to not directly target an image.(¸ãø¡
-RWeb:LinkToImageCheckµ"1Change this link to not directly target an image.(î¹™
-J	Web:S1827à"/Remove this deprecated "frameborder" attribute.(€¢Õšúÿÿÿÿ
-YWeb:FrameWithoutTitleCheckà"-Add a "title" attribute to this <iframe> tag.(€¢Õšúÿÿÿÿ
+WWeb:LinkToImageCheckÍ"1Change this link to not directly target an image.(®©¾¨ıÿÿÿÿ
+WWeb:LinkToImageCheck×"1Change this link to not directly target an image.(óŞŞÚøÿÿÿÿ
+RWeb:LinkToImageChecká"1Change this link to not directly target an image.(ı‹ÕÈ
+WWeb:LinkToImageCheckë"1Change this link to not directly target an image.(ÅŞ˜öşÿÿÿÿ
+WWeb:LinkToImageCheckõ"1Change this link to not directly target an image.(Ä¹ä¼úÿÿÿÿ
+WWeb:LinkToImageCheckÿ"1Change this link to not directly target an image.(×†Ëùÿÿÿÿ
+RWeb:LinkToImageCheck‰"1Change this link to not directly target an image.(ˆÀş
+RWeb:LinkToImageCheck“"1Change this link to not directly target an image.(¸ãø¡
+RWeb:LinkToImageCheck"1Change this link to not directly target an image.(î¹™
+J	Web:S1827È"/Remove this deprecated "frameborder" attribute.(€¢Õšúÿÿÿÿ
+YWeb:FrameWithoutTitleCheckÈ"-Add a "title" attribute to this <iframe> tag.(€¢Õšúÿÿÿÿ
