@@ -48,13 +48,6 @@
       <div class="profile">
         <img src="assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
         <h1 class="text-light"><a href="index.html">박정연</a></h1>
-        <div class="social-links mt-3 text-center">
-          <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-          <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-          <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-          <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-          <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-        </div>
       </div>
 
       <nav id="navbar" class="nav-menu navbar">
@@ -70,6 +63,12 @@
   </header><!-- End Header -->
 
   <main id="main">
+    <div id="myModal" class="modal">
+      <div class="modal-content">
+        <span class="close">&times;</span>
+        <video autoplay controls id="video" style="z-index: 999; width: 100%; height: 90%;"></video>
+      </div>
+    </div>
 
     <!-- ======= Breadcrumbs ======= -->
     <section id="breadcrumbs" class="breadcrumbs">
@@ -93,7 +92,7 @@
         <div class="row gy-4">
 
           <div class="col-lg-8">
-            <div class="portfolio-details-slider swiper" style="border:2px solid black; border-radius: 30px;">
+            <div class="portfolio-details-slider swiper" style="border:2px solid black; border-radius: 30px; z-index: 0;">
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
@@ -127,13 +126,44 @@
               <ul>
                 <li><strong>Category</strong>: 웹 프로젝트</li>
                 <li><strong>Project date</strong>: 2023.07 - 2023.11</li>
+                <li class="pf_btns">
+                  <button class="w-btn w-btn-green" id="videoBtn">시연 영상</button>
+                  <script>
+                    var modal = document.getElementById("myModal");
+                    var btn = document.getElementById("videoBtn");
+                    var span = document.getElementsByClassName("close")[0];
+
+                    btn.onclick = function() {
+                      modal.style.display = "block";
+                      var video = document.getElementById("video");
+                      video.src = "assets/video/video1.mp4";
+                      video.play();
+                    }
+
+                    span.onclick = function() {
+                      modal.style.display = "none";
+                      var video = document.getElementById("video");
+                      video.pause();
+                    }
+
+                    window.onclick = function(event) {
+                      if (event.target === modal) {
+                        modal.style.display = "none";
+                        var video = document.getElementById("video");
+                        video.pause();
+                      }
+                    }
+                  </script>
+                  <a href="https://github.com/toratsugumi37/wearVillage_gitHub" target="_blank"><button class="w-btn w-btn-green">구현소스</button></a>
+                  <a href="assets/pdf/수료최종.pdf" target="_blank"><button class="w-btn w-btn-green">프로젝트 개요.PDF</button></a>
+                </li>
               </ul>
             </div>
             <div class="portfolio-description">
               <h2>개인간 옷을 대여, 공유, 판매, 구매 가능한 플랫폼 시스템</h2>
               <p>
                 저는 팀원으로써 팀 프로젝트에 참여하였고 <br>
-                <span>게시판CRUD</span>, <span>네이버지도API</span>, <span>검색 기능</span>, <span>결제(포트원 토스,카카오)</span>, <span>회원정보 관리</span>, <span>회원 탈퇴</span>를 담당하였습니다.
+                <span>게시판CRUD</span>, <span>네이버지도API</span><br><span>검색 기능</span>, <span>결제(포트원,카카오)</span><br><span>회원정보 관리</span>, <span>회원 탈퇴</span><br>를 담당하였습니다.
               </p>
             </div>
             <style>
@@ -143,6 +173,43 @@
 
               .portfolio-description > p > span:hover {
                 color:blue;
+              }
+
+              .modal {
+                display: none;
+                position: fixed;
+                z-index: 1;
+                padding-top: 100px;
+                left: 0;
+                top: 0;
+                width: 100%;
+                height: 100%;
+                overflow: auto;
+                background-color: rgb(0,0,0);
+                background-color: rgba(0,0,0,0.4);
+              }
+
+              .modal-content {
+                background-color: #fefefe;
+                margin: auto;
+                padding: 20px;
+                border: 1px solid #888;
+                width: 60%;
+                height:70%;
+              }
+
+              .close {
+                color: #aaaaaa;
+                float: right;
+                font-size: 28px;
+                font-weight: bold;
+              }
+
+              .close:hover,
+              .close:focus {
+                color: #000;
+                text-decoration: none;
+                cursor: pointer;
               }
 
             </style>
