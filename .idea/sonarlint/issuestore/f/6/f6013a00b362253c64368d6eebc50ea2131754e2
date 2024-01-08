@@ -41,13 +41,21 @@ QWeb:AvoidCommentedOutCodeCheck¤"Remove this commented out code.(‹ü­½8­«¹Ş
 QWeb:AvoidCommentedOutCodeCheck¦"Remove this commented out code.(‹ü­½8­«¹ŞÅ1
 VWeb:AvoidCommentedOutCodeCheck§"Remove this commented out code.( ëË·ıÿÿÿÿ8­«¹ŞÅ1
 RWeb:LinkToImageCheckÂ"1Change this link to not directly target an image.(ù—±Ç
-RWeb:LinkToImageCheckÌ"1Change this link to not directly target an image.(€¾ãÍ
+QWeb:AvoidCommentedOutCodeCheckÈ"Remove this commented out code.(úãöò8ç®¸Î1
+QWeb:AvoidCommentedOutCodeCheckÉ"Remove this commented out code.(ºÏÒ°8è®¸Î1
+QWeb:AvoidCommentedOutCodeCheckÊ"Remove this commented out code.(ø³À€8é®¸Î1
+PWeb:AvoidCommentedOutCodeCheckË"Remove this commented out code.(œÙÙ8ê®¸Î1
+VWeb:AvoidCommentedOutCodeCheckÌ"Remove this commented out code.(àú‚Íüÿÿÿÿ8ë®¸Î1
+VWeb:AvoidCommentedOutCodeCheckÍ"Remove this commented out code.(ÁóÊÊşÿÿÿÿ8ì®¸Î1
+QWeb:AvoidCommentedOutCodeCheckÎ"Remove this commented out code.(‹ü­½8“ÆµáÅ1
+QWeb:AvoidCommentedOutCodeCheckÏ"Remove this commented out code.(‹ü­½8”ÆµáÅ1
+QWeb:AvoidCommentedOutCodeCheckĞ"Remove this commented out code.(‹ü­½8”ÆµáÅ1
 QWeb:AvoidCommentedOutCodeCheckƒ"Remove this commented out code.(ùÙÃå8–Œ¶áÅ1
 VWeb:AvoidCommentedOutCodeCheck„"Remove this commented out code.(íª²–ıÿÿÿÿ8“ÆµáÅ1
 QWeb:AvoidCommentedOutCodeCheck†"Remove this commented out code.(€Àëõ8“ÆµáÅ1
 VWeb:AvoidCommentedOutCodeCheck‡"Remove this commented out code.(‡şÿ¬ıÿÿÿÿ8–Œ¶áÅ1
 VWeb:AvoidCommentedOutCodeCheckˆ"Remove this commented out code.(¸¥üÍüÿÿÿÿ8“ÆµáÅ1
-QWeb:AvoidCommentedOutCodeCheck‰"Remove this commented out code.(‹ü­½8“ÆµáÅ1
+QWeb:AvoidCommentedOutCodeCheck‰"Remove this commented out code.(‹ü­½8”ÆµáÅ1
 VWeb:AvoidCommentedOutCodeCheck‹"Remove this commented out code.(¯÷ºøúÿÿÿÿ8—Œ¶áÅ1
 QWeb:AvoidCommentedOutCodeCheckŒ"Remove this commented out code.(Í‘œî8—Œ¶áÅ1
 VWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(‡™²ğøÿÿÿÿ8—Œ¶áÅ1
@@ -88,7 +96,7 @@ VWeb:AvoidCommentedOutCodeCheck»"Remove this commented out code.(Î÷¡áÿÿÿÿÿ
 QWeb:AvoidCommentedOutCodeCheck¼"Remove this commented out code.(ŸÈüò8Œ¶áÅ1
 VWeb:AvoidCommentedOutCodeCheck½"Remove this commented out code.(ÀÙüıÿÿÿÿ8Œ¶áÅ1
 VWeb:AvoidCommentedOutCodeCheck¾"Remove this commented out code.(´æ´úÿÿÿÿ8Œ¶áÅ1
-QWeb:AvoidCommentedOutCodeCheck¿"Remove this commented out code.(‹ü­½8”ÆµáÅ1
+QWeb:AvoidCommentedOutCodeCheck¿"Remove this commented out code.(‹ü­½8•ÆµáÅ1
 VWeb:AvoidCommentedOutCodeCheckÀ"Remove this commented out code.(ì•†·ÿÿÿÿÿ8Œ¶áÅ1
 VWeb:AvoidCommentedOutCodeCheckÂ"Remove this commented out code.(‡™²ğøÿÿÿÿ8Œ¶áÅ1
 VWeb:AvoidCommentedOutCodeCheckÃ"Remove this commented out code.(Ø‰Úœøÿÿÿÿ8Œ¶áÅ1
@@ -98,9 +106,9 @@ VWeb:AvoidCommentedOutCodeCheckÈ"Remove this commented out code.(Î÷¡áÿÿÿÿÿ
 QWeb:AvoidCommentedOutCodeCheckÉ"Remove this commented out code.(şÁ¡ë8Œ¶áÅ1
 VWeb:AvoidCommentedOutCodeCheckÊ"Remove this commented out code.(‚ƒúÚûÿÿÿÿ8ŸŒ¶áÅ1
 QWeb:AvoidCommentedOutCodeCheckË"Remove this commented out code.(ø×Í8ŸŒ¶áÅ1
-QWeb:AvoidCommentedOutCodeCheckÌ"Remove this commented out code.(‹ü­½8”ÆµáÅ1
+QWeb:AvoidCommentedOutCodeCheckÌ"Remove this commented out code.(‹ü­½8•ÆµáÅ1
 VWeb:AvoidCommentedOutCodeCheckÍ"Remove this commented out code.(ì•†·ÿÿÿÿÿ8ŸŒ¶áÅ1
-QWeb:AvoidCommentedOutCodeCheckÏ"Remove this commented out code.(‹ü­½8”ÆµáÅ1
+QWeb:AvoidCommentedOutCodeCheckÏ"Remove this commented out code.(‹ü­½8•ÆµáÅ1
 PWeb:AvoidCommentedOutCodeCheckĞ"Remove this commented out code.(¢í™%8ŸŒ¶áÅ1
 QWeb:AvoidCommentedOutCodeCheckÑ"Remove this commented out code.(‹ü­½8•ÆµáÅ1
 QWeb:AvoidCommentedOutCodeCheckÓ"Remove this commented out code.(‹ü­½8•ÆµáÅ1
@@ -128,10 +136,10 @@ QWeb:AvoidCommentedOutCodeCheckï"Remove this commented out code.(£¿™8”Æµá
 VWeb:AvoidCommentedOutCodeCheckğ"Remove this commented out code.(§Å¿üÿÿÿÿ8”ÆµáÅ1
 VWeb:AvoidCommentedOutCodeCheckñ"Remove this commented out code.(Ê«Õùùÿÿÿÿ8”ÆµáÅ1
 VWeb:AvoidCommentedOutCodeCheckò"Remove this commented out code.(¸¢äüÿÿÿÿ8”ÆµáÅ1
-QWeb:AvoidCommentedOutCodeCheckó"Remove this commented out code.(‹ü­½8•ÆµáÅ1
+QWeb:AvoidCommentedOutCodeCheckó"Remove this commented out code.(‹ü­½8¡Œ¶áÅ1
 QWeb:AvoidCommentedOutCodeCheckõ"Remove this commented out code.(ß‚8”ÆµáÅ1
-QWeb:AvoidCommentedOutCodeCheckö"Remove this commented out code.(‹ü­½8•ÆµáÅ1
-QWeb:AvoidCommentedOutCodeCheckø"Remove this commented out code.(‹ü­½8•ÆµáÅ1
+QWeb:AvoidCommentedOutCodeCheckö"Remove this commented out code.(‹ü­½8¡Œ¶áÅ1
+QWeb:AvoidCommentedOutCodeCheckø"Remove this commented out code.(‹ü­½8¡Œ¶áÅ1
 VWeb:AvoidCommentedOutCodeCheckú"Remove this commented out code.(³¥’Åûÿÿÿÿ8”ÆµáÅ1
 VWeb:AvoidCommentedOutCodeCheckû"Remove this commented out code.(š›†³øÿÿÿÿ8”ÆµáÅ1
 VWeb:AvoidCommentedOutCodeCheckü"Remove this commented out code.(‡Ÿ®úÿÿÿÿ8”ÆµáÅ1
@@ -143,15 +151,15 @@ VWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(ŠÇ®èşÿÿÿÿ
 QWeb:AvoidCommentedOutCodeCheck‚"Remove this commented out code.(•ØÃ›8”ÆµáÅ1
 QWeb:AvoidCommentedOutCodeCheckƒ"Remove this commented out code.(ÊûÄ8”ÆµáÅ1
 QWeb:AvoidCommentedOutCodeCheck„"Remove this commented out code.(‹ü­½8¡Œ¶áÅ1
-QWeb:AvoidCommentedOutCodeCheck…"Remove this commented out code.(‹ü­½8¡Œ¶áÅ1
+QWeb:AvoidCommentedOutCodeCheck…"Remove this commented out code.(‹ü­½8¢Œ¶áÅ1
 QWeb:AvoidCommentedOutCodeCheck†"Remove this commented out code.(‰¶Üß8•ÆµáÅ1
 QWeb:AvoidCommentedOutCodeCheck‡"Remove this commented out code.(¬’ÙÊ8•ÆµáÅ1
 VWeb:AvoidCommentedOutCodeCheckˆ"Remove this commented out code.(à×åîüÿÿÿÿ8•ÆµáÅ1
-QWeb:AvoidCommentedOutCodeCheck‰"Remove this commented out code.(‹ü­½8¡Œ¶áÅ1
+QWeb:AvoidCommentedOutCodeCheck‰"Remove this commented out code.(‹ü­½8¢Œ¶áÅ1
 QWeb:AvoidCommentedOutCodeCheckŠ"Remove this commented out code.(‰¶Üß8•ÆµáÅ1
 VWeb:AvoidCommentedOutCodeCheck‹"Remove this commented out code.(ÃöÇÀúÿÿÿÿ8•ÆµáÅ1
 VWeb:AvoidCommentedOutCodeCheckŒ"Remove this commented out code.(ã¬Üúÿÿÿÿ8•ÆµáÅ1
-QWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(‹ü­½8¡Œ¶áÅ1
+QWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(‹ü­½8¢Œ¶áÅ1
 QWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(ïÎØù8•ÆµáÅ1
 VWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(†œòúÿÿÿÿ8•ÆµáÅ1
 VWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(ŒÕ£­üÿÿÿÿ8•ÆµáÅ1
@@ -159,7 +167,7 @@ VWeb:AvoidCommentedOutCodeCheck‘"Remove this commented out code.(í’ë¥øÿÿÿÿ
 QWeb:AvoidCommentedOutCodeCheck’"Remove this commented out code.(‹ü­½8¢Œ¶áÅ1
 QWeb:AvoidCommentedOutCodeCheck“"Remove this commented out code.(‹ÿñ§8•ÆµáÅ1
 QWeb:AvoidCommentedOutCodeCheck”"Remove this commented out code.(¹ôÿä8•ÆµáÅ1
-QWeb:AvoidCommentedOutCodeCheck•"Remove this commented out code.(‹ü­½8¢Œ¶áÅ1
-QWeb:AvoidCommentedOutCodeCheck—"Remove this commented out code.(‹ü­½8¢Œ¶áÅ1
-QWeb:AvoidCommentedOutCodeCheck™"Remove this commented out code.(‹ü­½8¢Œ¶áÅ1
+QWeb:AvoidCommentedOutCodeCheck•"Remove this commented out code.(‹ü­½8ş®¸Î1
+QWeb:AvoidCommentedOutCodeCheck—"Remove this commented out code.(‹ü­½8ş®¸Î1
+QWeb:AvoidCommentedOutCodeCheck™"Remove this commented out code.(‹ü­½8ş®¸Î1
 QWeb:AvoidCommentedOutCodeCheckš"Remove this commented out code.(øßÕ­8•ÆµáÅ1
